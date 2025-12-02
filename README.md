@@ -28,3 +28,11 @@ population itself. We also look at memetic algorithms, which combine
 global and local search.
 
 [Markdown Export](rendered/Evolutionary%20Search%20-%20Part%202.md)
+
+
+## Chapter 4: Multi-Objective Optimisation (Part 1)
+
+This chapter covers the basics of Pareto optimality, NSGA-II, and comparison
+of multi-objective search algorithms.
+[Markdown Export](rendered/Multi-Objective%20Optimisation%20-%20Part%201.md)
+
