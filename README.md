@@ -43,3 +43,10 @@ This chapter covers several alternative multi-objective search algorithms:
 A random baseline, PAES, SPEA2, TwoArchives, and SMS-EMOA.
 [Markdown Export](rendered/Multi-Objective%20Optimisation%20-%20Part%202.md)
 
+## Chapter 6: Search-based Test Generation (Part 1)
+
+This chapter looks at how the problem of test input generation can be cast
+as a search problem, and how to automatically instrument programs for
+fitness generation.
+[Markdown Export](rendered/Search-Based%20Test%20Generation%20-%20Part%201.md)
+
